@@ -1,0 +1,23 @@
+.Main{
+    
+    width:100%;
+    background-color:#131313;
+    color:#ffffff;
+}
+
+.Profile{
+    text-align:right;
+    height:100vh;
+}
+.Profile img{
+    width: 35%;
+    height:100%;
+    
+}
+.TextContainer{
+    position: Absolute;
+    top:200px;
+    left:400px;
+    color:white;
+
+}
